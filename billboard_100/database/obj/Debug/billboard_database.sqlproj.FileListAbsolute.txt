@@ -1,0 +1,5 @@
+C:\Development\billboard_charts_db\billboard_100\database\bin\Debug\billboard_database.dacpac
+C:\Development\billboard_charts_db\billboard_100\database\bin\Debug\database.dll
+C:\Development\billboard_charts_db\billboard_100\database\bin\Debug\database.pdb
+C:\Development\billboard_charts_db\billboard_100\database\obj\Debug\database.dll
+C:\Development\billboard_charts_db\billboard_100\database\obj\Debug\database.pdb
