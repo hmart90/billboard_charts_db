@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>data_load</Name>
-    <LastWriteTime>2022-07-09T12:22:44.7479893Z</LastWriteTime>
+    <LastWriteTime>2022-07-09T13:00:17.3395799Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>load_raw_data.dtsx</Name>
-      <LastWriteTime>2022-07-09T12:22:44.733987Z</LastWriteTime>
+      <LastWriteTime>2022-07-09T13:20:43.1910436Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

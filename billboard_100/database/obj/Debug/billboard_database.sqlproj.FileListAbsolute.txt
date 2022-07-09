@@ -3,3 +3,7 @@ C:\Development\billboard_charts_db\billboard_100\database\bin\Debug\database.dll
 C:\Development\billboard_charts_db\billboard_100\database\bin\Debug\database.pdb
 C:\Development\billboard_charts_db\billboard_100\database\obj\Debug\database.dll
 C:\Development\billboard_charts_db\billboard_100\database\obj\Debug\database.pdb
+C:\Development\billboard_charts_db\billboard_100\database\obj\Debug\Model.xml
+C:\Development\billboard_charts_db\billboard_100\database\obj\Debug\refactor.xml
+C:\Development\billboard_charts_db\billboard_100\database\obj\Debug\postdeploy.sql
+C:\Development\billboard_charts_db\billboard_100\database\obj\Debug\predeploy.sql
